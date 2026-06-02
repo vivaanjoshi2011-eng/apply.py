@@ -1,1 +1,1 @@
-# apply.py
+# Study AI Class recorder bot
